@@ -2,6 +2,11 @@ This is an UNOFFICIAL resource collection for Huawei Matebook E Go device, prima
 
 See [discussions](https://github.com/orgs/matebook-e-go/discussions) for reviews, guides and other discussions.
 
-### Auxiliary Tools (Huawei PC Manager replacement)
+### Drivers
+
+* [uup-drivers-sc8280xp](https://github.com/matebook-e-go/uup-drivers-sc8280xp/releases)
+* Touch driver installation guide (Coming soon)
+
+### Auxiliary Tools
 
 * Coming soon
